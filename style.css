@@ -2,3 +2,23 @@
 
 	background-color: #87CEEB;
 }
+
+.morning {
+	background-image: url('http://media1.santabanta.com/full1/Miscellaneous/Good%20Morning/good-morning-47a.jpg')
+}
+
+.day {
+	background-image: url('')
+}
+
+.sunset {
+	background-image: url('')
+}
+
+.evening {
+	background-image: url('')
+}
+
+h1 {
+	color: white;
+}
